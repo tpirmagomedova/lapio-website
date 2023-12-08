@@ -1,3 +1,35 @@
+h1 {
+  color: blue;
+}
+
+h3 {
+  color: red;
+}
+
+h4 {
+  color: orange;
+}
+
+#link {
+  color: orange;
+}
+
+h5 {
+  color: orange;
+}
+
+#violet-part {
+  color: violet;
+}
+
+li {
+  color: orange;
+}
+
+#red-list {
+  color: red;
+}
+
 p {
-background-color: red;
+  color: orange;
 }
