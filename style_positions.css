@@ -1,0 +1,25 @@
+.first_box {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  padding-top: 5px;
+}
+
+.second_box {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  position: relative;
+  margin: -55px 50px 15px 250px;
+  padding-top: 5px;
+}
+
+.third_box {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  position: relative;
+  margin: -55px 50px 15px 250px;
+  padding-top: 5px;
+}
+
